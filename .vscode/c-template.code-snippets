@@ -1,0 +1,17 @@
+{
+  "Yeni C Dosyası": {
+    "prefix": "cmain",
+    "body": [
+      "#include <stdio.h>",
+      "",
+      "int main()",
+      "{",
+      "      ",
+      "      ",
+      "      ",      
+      "    return 0;",
+      "}"
+    ],
+    "description": "Temel C main fonksiyonu ile başlangıç"
+  }
+}
